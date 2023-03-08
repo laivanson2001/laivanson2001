@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lai Van Son</h1>
 <h3 align="center">A future fullstack developer</h3>
-
+<img align="right" alt="coding" with="80%" src="https://cdn.pixabay.com/animation/2022/08/23/03/32/03-32-04-108_512.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce App](https://github.com/laivanson2001/ecommerce-app)
